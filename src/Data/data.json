@@ -1,0 +1,347 @@
+[
+    {
+      "name": "Toyota Prius",
+      "manufacturing_year": 2022,
+      "no_of_seats": 5,
+      "gas_type": "hybrid",
+      "transmission_type": "automatic",
+      "mileage": 25.5,
+      "renting_cost_per_month": 400
+    },
+    {
+      "name": "Honda Civic",
+      "manufacturing_year": 2021,
+      "no_of_seats": 5,
+      "gas_type": "gasoline",
+      "transmission_type": "automatic",
+      "mileage": 30.2,
+      "renting_cost_per_month": 350
+    },
+    {
+      "name": "Ford Mustang",
+      "manufacturing_year": 2023,
+      "no_of_seats": 4,
+      "gas_type": "gasoline",
+      "transmission_type": "manual",
+      "mileage": 15.8,
+      "renting_cost_per_month": 500
+    },
+    {
+      "name": "Nissan Altima",
+      "manufacturing_year": 2022,
+      "no_of_seats": 5,
+      "gas_type": "gasoline",
+      "transmission_type": "automatic",
+      "mileage": 28.4,
+      "renting_cost_per_month": 380
+    },
+    {
+      "name": "Tesla Model 3",
+      "manufacturing_year": 2023,
+      "no_of_seats": 5,
+      "gas_type": "electric",
+      "transmission_type": "automatic",
+      "mileage": 4.2,
+      "renting_cost_per_month": 600
+    },
+    {
+        "name": "Volkswagen Golf",
+        "manufacturing_year": 2022,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 27.1,
+        "renting_cost_per_month": 380
+      },
+      {
+        "name": "Chevrolet Silverado",
+        "manufacturing_year": 2023,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 18.6,
+        "renting_cost_per_month": 450
+      },
+      {
+        "name": "Volkswagen Golf",
+        "manufacturing_year": 2022,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 27.1,
+        "renting_cost_per_month": 380
+      },
+      {
+        "name": "Chevrolet Silverado",
+        "manufacturing_year": 2023,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 18.6,
+        "renting_cost_per_month": 450
+      },
+      {
+        "name": "Toyota Corolla",
+        "manufacturing_year": 2022,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 29.8,
+        "renting_cost_per_month": 370
+      },
+      {
+        "name": "Hyundai Sonata",
+        "manufacturing_year": 2021,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 28.3,
+        "renting_cost_per_month": 360
+      },
+      {
+        "name": "Tesla Model S",
+        "manufacturing_year": 2023,
+        "no_of_seats": 5,
+        "gas_type": "electric",
+        "transmission_type": "automatic",
+        "mileage": 4.5,
+        "renting_cost_per_month": 650
+      },
+      {
+        "name": "Ford Explorer",
+        "manufacturing_year": 2022,
+        "no_of_seats": 7,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 24.1,
+        "renting_cost_per_month": 450
+      },
+      {
+        "name": "Chevrolet Camaro",
+        "manufacturing_year": 2023,
+        "no_of_seats": 4,
+        "gas_type": "gasoline",
+        "transmission_type": "manual",
+        "mileage": 16.3,
+        "renting_cost_per_month": 520
+      },
+      {
+        "name": "Mazda CX-5",
+        "manufacturing_year": 2022,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 26.7,
+        "renting_cost_per_month": 390
+      },
+      {
+        "name": "Nissan Rogue",
+        "manufacturing_year": 2023,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 27.8,
+        "renting_cost_per_month": 380
+      },
+      {
+        "name": "BMW 3 Series",
+        "manufacturing_year": 2022,
+        "no_of_seats": 5,
+        "gas_type": "gasoline",
+        "transmission_type": "automatic",
+        "mileage": 29.4,
+        "renting_cost_per_month": 500
+      },
+      {
+        "name": "Audi Q5",
+        "manufacturing_year": 2023,
+        "no_of_seats": 5,
+        "gas_type": "hybrid",
+        "transmission_type": "automatic",
+        "mileage": 30.1,
+        "renting_cost_per_month": 480
+        
+      },
+      {
+        "name": "Jeep Wrangler",
+        "manufacturing_year": 2022,
+        "no_of_seats": 4,
+        "gas_type": "gasoline",
+        "transmission_type": "manual",
+        "mileage": 14.7,
+        "renting_cost_per_month": 550
+      },
+        {
+          "name": "Toyota Prius",
+          "manufacturing_year": 2022,
+          "no_of_seats": 5,
+          "gas_type": "hybrid",
+          "transmission_type": "automatic",
+          "mileage": 25.5,
+          "renting_cost_per_month": 400
+        },
+        {
+          "name": "Honda Civic",
+          "manufacturing_year": 2021,
+          "no_of_seats": 5,
+          "gas_type": "gasoline",
+          "transmission_type": "automatic",
+          "mileage": 30.2,
+          "renting_cost_per_month": 350
+        },
+        {
+          "name": "Ford Mustang",
+          "manufacturing_year": 2023,
+          "no_of_seats": 4,
+          "gas_type": "gasoline",
+          "transmission_type": "manual",
+          "mileage": 15.8,
+          "renting_cost_per_month": 500
+        },
+        {
+          "name": "Nissan Altima",
+          "manufacturing_year": 2022,
+          "no_of_seats": 5,
+          "gas_type": "gasoline",
+          "transmission_type": "automatic",
+          "mileage": 28.4,
+          "renting_cost_per_month": 380
+        },
+        {
+          "name": "Tesla Model 3",
+          "manufacturing_year": 2023,
+          "no_of_seats": 5,
+          "gas_type": "electric",
+          "transmission_type": "automatic",
+          "mileage": 4.2,
+          "renting_cost_per_month": 600
+        },
+        {
+            "name": "Volkswagen Golf",
+            "manufacturing_year": 2022,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 27.1,
+            "renting_cost_per_month": 380
+          },
+          {
+            "name": "Chevrolet Silverado",
+            "manufacturing_year": 2023,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 18.6,
+            "renting_cost_per_month": 450
+          },
+          {
+            "name": "Volkswagen Golf",
+            "manufacturing_year": 2022,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 27.1,
+            "renting_cost_per_month": 380
+          },
+          {
+            "name": "Chevrolet Silverado",
+            "manufacturing_year": 2023,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 18.6,
+            "renting_cost_per_month": 450
+          },
+          {
+            "name": "Toyota Corolla",
+            "manufacturing_year": 2022,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 29.8,
+            "renting_cost_per_month": 370
+          },
+          {
+            "name": "Hyundai Sonata",
+            "manufacturing_year": 2021,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 28.3,
+            "renting_cost_per_month": 360
+          },
+          {
+            "name": "Tesla Model S",
+            "manufacturing_year": 2023,
+            "no_of_seats": 5,
+            "gas_type": "electric",
+            "transmission_type": "automatic",
+            "mileage": 4.5,
+            "renting_cost_per_month": 650
+          },
+          {
+            "name": "Ford Explorer",
+            "manufacturing_year": 2022,
+            "no_of_seats": 7,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 24.1,
+            "renting_cost_per_month": 450
+          },
+          {
+            "name": "Chevrolet Camaro",
+            "manufacturing_year": 2023,
+            "no_of_seats": 4,
+            "gas_type": "gasoline",
+            "transmission_type": "manual",
+            "mileage": 16.3,
+            "renting_cost_per_month": 520
+          },
+          {
+            "name": "Mazda CX-5",
+            "manufacturing_year": 2022,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 26.7,
+            "renting_cost_per_month": 390
+          },
+          {
+            "name": "Nissan Rogue",
+            "manufacturing_year": 2023,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 27.8,
+            "renting_cost_per_month": 380
+          },
+          {
+            "name": "BMW 3 Series",
+            "manufacturing_year": 2022,
+            "no_of_seats": 5,
+            "gas_type": "gasoline",
+            "transmission_type": "automatic",
+            "mileage": 29.4,
+            "renting_cost_per_month": 500
+          },
+          {
+            "name": "Audi Q5",
+            "manufacturing_year": 2023,
+            "no_of_seats": 5,
+            "gas_type": "hybrid",
+            "transmission_type": "automatic",
+            "mileage": 30.1,
+            "renting_cost_per_month": 480
+          },
+          {
+            "name": "Jeep Wrangler",
+            "manufacturing_year": 2022,
+            "no_of_seats": 4,
+            "gas_type": "gasoline",
+            "transmission_type": "manual",
+            "mileage": 14.7,
+            "renting_cost_per_month": 550
+          }
+          
+  ]
+  
